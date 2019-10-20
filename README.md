@@ -18,7 +18,7 @@ import { Sparkle, SparklesCanvas } from 'react-sparkles'
 
 
 
-const exampleComponent() {
+const exampleComponent = () => {
     <div className='container'>
         <h1>Hi Mom!</h1>
         <SparklesCanvas>
