@@ -7,7 +7,9 @@
   "jsnext:main": "build/index.es.js",
   "scripts": {
     "build": "rollup -c",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy":"cd example && npm run build",
+    "deploy": "gh-pages -d example/build"
   },
   "author": "",
   "license": "ISC",
@@ -27,7 +29,8 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-typescript2": "^0.24.3",
-    "typescript": "^3.6.3"
+    "typescript": "^3.6.3",
+    "gh-pages": "^2.1.1"
   },
   "files": [
     "build"

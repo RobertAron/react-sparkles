@@ -10,7 +10,7 @@ const makeGifData = (width: number, height: number, image: string, name: string)
   height,
   image,
   frames: width / height,
-  seconds: width / height / 30 * 2,
+  seconds: width / height / 30 * 3,
   name
 })
 

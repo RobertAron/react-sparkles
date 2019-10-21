@@ -20,7 +20,7 @@ import { Sparkle, SparklesCanvas } from 'react-sparkles'
 
 const exampleComponent = () => {
     <div className='container'>
-        <h1>Hi Mom!</h1>
+        <h1>Hello There</h1>
         <SparklesCanvas>
             <Sparkle variant={1} right='-90px' top='40%' delayMS={1000}/>
             <Sparkle variant={2} right='-70px' top='0%' delayMS={300}/>
