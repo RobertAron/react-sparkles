@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a09ad82df97a02c83e7eec0a2275da2",
+    "revision": "80c7c8ffa5e6bce850647b9fa4393bb5",
     "url": "/react-sparkles/index.html"
   },
   {
-    "revision": "d60c4a78570d503ffcec",
+    "revision": "cd314fb8611fa6f68781",
     "url": "/react-sparkles/static/css/main.21f45a90.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-sparkles/static/js/2.a7131b1b.chunk.js"
   },
   {
-    "revision": "d60c4a78570d503ffcec",
-    "url": "/react-sparkles/static/js/main.142444e5.chunk.js"
+    "revision": "cd314fb8611fa6f68781",
+    "url": "/react-sparkles/static/js/main.50bc5a90.chunk.js"
   },
   {
     "revision": "f759ff38b5b081b77ddf",
