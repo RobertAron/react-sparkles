@@ -2,6 +2,10 @@
 
 This react module is used to make some cute sparkly elements.
 
+### Install
+
+`npm install @robertaron/react-sparkles`
+
 ### Usage
 
 * Set parent element to be `display:relative`
