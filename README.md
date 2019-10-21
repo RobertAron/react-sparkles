@@ -2,6 +2,10 @@
 
 This react module is used to make some cute sparkly elements.
 
+### Example
+
+See a sparkly example [here](http://www.robertaron.io/react-sparkles/).
+
 ### Install
 
 `npm install @robertaron/react-sparkles`
