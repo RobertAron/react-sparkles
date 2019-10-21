@@ -1,5 +1,5 @@
 {
-  "name": "react-sparkles",
+  "name": "@robertaron/react-sparkles",
   "version": "1.0.0",
   "description": "sparkly components made for react",
   "main": "build/index.js",
@@ -8,7 +8,7 @@
   "scripts": {
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy":"cd example && npm run build",
+    "predeploy": "cd example && npm run build",
     "deploy": "gh-pages -d example/build"
   },
   "author": "",
@@ -39,5 +39,16 @@
     "jss": "^10.0.0",
     "jss-preset-default": "^10.0.0",
     "react-jss": "^10.0.0"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertAron/react-sparkles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RobertAron/react-sparkles/issues"
+  },
+  "homepage": "https://github.com/RobertAron/react-sparkles#readme"
 }
