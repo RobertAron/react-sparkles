@@ -9,8 +9,8 @@ This react module is used to make some cute sparkly elements.
 ### Usage
 
 * Set parent element to be `display:relative`
-* Set the sparkle container. This will fill the parent element, and make the sparkles unclickable.
-* Set the sparkle elements.
+* Create the sparkle container. This will fill the parent element, and make the sparkles unclickable.
+* Create the sparkle elements.
   * Select a varient. There are 4. (0-3)
   * Poition using `top`,`right`,`bottom`,`left`. These take css atributes.
   * Set the delay in ms
